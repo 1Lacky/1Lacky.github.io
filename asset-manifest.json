@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.1beb7552.chunk.css",
-    "main.js": "/static/js/main.0166feba.chunk.js",
-    "main.js.map": "/static/js/main.0166feba.chunk.js.map",
+    "main.css": "/static/css/main.abb48109.chunk.css",
+    "main.js": "/static/js/main.00778136.chunk.js",
+    "main.js.map": "/static/js/main.00778136.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b76c6e8b.js",
     "runtime-main.js.map": "/static/js/runtime-main.b76c6e8b.js.map",
     "static/js/2.4f42ae32.chunk.js": "/static/js/2.4f42ae32.chunk.js",
     "static/js/2.4f42ae32.chunk.js.map": "/static/js/2.4f42ae32.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d655eb6e547266d66f588648b1d24d2d.js": "/precache-manifest.d655eb6e547266d66f588648b1d24d2d.js",
+    "precache-manifest.79289fe577f0364132e86dda6887960f.js": "/precache-manifest.79289fe577f0364132e86dda6887960f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.1beb7552.chunk.css.map": "/static/css/main.1beb7552.chunk.css.map",
+    "static/css/main.abb48109.chunk.css.map": "/static/css/main.abb48109.chunk.css.map",
     "static/media/index.css": "/static/media/PTRootUI_Medium.588b7de1.ttf",
     "static/media/logo_anim.svg": "/static/media/logo_anim.052b00ce.svg",
     "static/media/logo_motiv.svg": "/static/media/logo_motiv.b2116d3b.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.b76c6e8b.js",
     "static/js/2.4f42ae32.chunk.js",
-    "static/css/main.1beb7552.chunk.css",
-    "static/js/main.0166feba.chunk.js"
+    "static/css/main.abb48109.chunk.css",
+    "static/js/main.00778136.chunk.js"
   ]
 }
